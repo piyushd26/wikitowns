@@ -1,7 +1,7 @@
 <a href="https://www.noobhub.io">
     <img src="https://www.noobhub.io/static/website/noobhub-twit.png" alt="Noobhub logo" title="noobhub" align="right" height="70" />
 </a>
-
+- An Amazing Project -
 # noobhub
 
 www.noobhub.io is a website to allow people to find, share, rank and bookmark coding resources.
